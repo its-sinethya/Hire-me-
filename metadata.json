@@ -1,0 +1,8 @@
+{
+  "name": "CareerAI",
+  "description": "Accelerate your professional growth with AI-powered CV optimization, interview preparation, and personalized career roadmaps in one premium application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
